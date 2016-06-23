@@ -1,3 +1,3 @@
 # Hello-World
 My first STEM repository
-	a great idea!
+	a good idea!
